@@ -1,6 +1,6 @@
 # 📝 PDFusion Chat
 
-A Natural Language Processing application that lets users chat with multiple PDF documents using **LangChain** and **Google Gemini API Key**, enabling seamless interaction, extraction, and analysis of information across files.
+A Generative AI and NLP application that lets users chat with multiple PDF documents using **LangChain** and **Google Gemini API Key**, enabling seamless interaction, extraction, and analysis of information across files.
 
 ---
 
@@ -42,7 +42,7 @@ Ensure the following are installed and available:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/PDFusion-Chat.git
+git clone https://github.com/asynchronousani/PDFusion-Chat-using-LangChain.git
 ```
 
 ### Create & Activate Virtual Environment
@@ -86,6 +86,19 @@ streamlit run app.py
 
 ## 👀 Preview
 
+### Main Application 
+
+![Screenshot](https://github.com/asynchronousani/PDFusion-Chat-using-LangChain/blob/1e14dfd311afa579b66a7e3fe744187286ea1cc8/images/Screenshot%202024-10-25%20102112.png)
+
+### Uploading the Document
+
+![Screenshot](https://github.com/asynchronousani/PDFusion-Chat-using-LangChain/blob/1e14dfd311afa579b66a7e3fe744187286ea1cc8/images/Screenshot%202024-10-25%20102330.png)
+
+### Test Results
+
+![Screenshot](https://github.com/asynchronousani/PDFusion-Chat-using-LangChain/blob/1e14dfd311afa579b66a7e3fe744187286ea1cc8/images/Screenshot%202024-10-25%20102824.png)
+![Screenshot](https://github.com/asynchronousani/PDFusion-Chat-using-LangChain/blob/1e14dfd311afa579b66a7e3fe744187286ea1cc8/images/Screenshot%202024-10-25%20103002.png)
+![Screenshot](https://github.com/asynchronousani/PDFusion-Chat-using-LangChain/blob/1e14dfd311afa579b66a7e3fe744187286ea1cc8/images/Screenshot%202024-10-25%20103044.png)
 
 ## 🤝 Contribute & Feedback
 
