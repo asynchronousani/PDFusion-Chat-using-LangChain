@@ -102,6 +102,6 @@ streamlit run app.py
 
 ## 🤝 Contribute & Feedback
 
-We welcome contributions, feature requests, and feedback! Feel free to open an **Issue** or **Pull Request**.
+Contributions to the project are welcome! Whether it's improving the model's performance, adding new features, or optimizing the code, feel free to submit pull requests.
 
 ---
