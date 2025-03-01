@@ -1,6 +1,6 @@
 # 📝 PDFusion Chat
 
-A Generative AI and NLP application that lets users chat with multiple PDF documents using **LangChain** and **Google Gemini API Key**, enabling seamless interaction, extraction, and analysis of information across files.
+A Generative AI and RAG based application that lets users chat with multiple PDF documents using **LangChain** and **Google Gemini API Key**, enabling seamless interaction, extraction, and analysis of information across files.
 
 ---
 
